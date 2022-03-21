@@ -1,0 +1,1 @@
+# このディレクトリに変換モデル(world_autovc_jp_step001800.pth)を入れる．
